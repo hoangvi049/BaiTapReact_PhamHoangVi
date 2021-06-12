@@ -1,0 +1,8 @@
+.content {
+  height: 600px;
+  background-color: sandybrown;
+}
+.content h1 {
+  color: white;
+  text-align: center;
+}

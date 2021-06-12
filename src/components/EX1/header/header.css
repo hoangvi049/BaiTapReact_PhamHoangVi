@@ -1,0 +1,8 @@
+.header {
+  height: 100px;
+  background-color: red;
+}
+.header a {
+  color: white;
+  text-align: center;
+}
